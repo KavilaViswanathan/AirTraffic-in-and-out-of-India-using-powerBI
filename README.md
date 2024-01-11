@@ -1,5 +1,31 @@
 # Air Traffic Analysis in and out of India using Power BI
 
+# Table of Contents
+
+1. [Introduction](#1-introduction)
+   1.1 [Market Size and Trends](#11-market-size-and-trends)
+   1.2 [Data Collection](#12-data-collection)
+   1.3 [Problem Statement](#13-problem-statement)
+   1.4 [Business Objectives](#14-business-objectives)
+
+2. [Data Processing](#2-data-processing)
+   2.1 [Data Cleaning](#21-data-cleaning)
+   2.2 [Data Transformation](#22-data-transformation)
+   2.3 [Data Processing](#23-data-processing)
+
+3. [Data Preparation](#3-data-preparation)
+   3.1 [Data Sources](#31-data-sources)
+
+4. [Data Visualization](#4-data-visualization)
+   4.1 [Airline-wise Analysis](#41-airline-wise-analysis)
+   4.2 [Country-wise Analysis](#42-country-wise-analysis)
+   4.3 [City Pair-wise Analysis](#43-city-pair-wise-analysis)
+
+5. [Getting Started](#5-getting-started)
+
+6. [Conclusion](#6-conclusion)
+
+
 ## 1. Introduction
 
 The Indian aviation industry has a rich history, witnessing growth in both passenger and freight segments. In the 2017 fiscal year, domestic passenger traffic increased by 21.5%, with scheduled airlines expected to cover longer distances. The number of non-scheduled carriers rose from 39 to 112, and operational airports increased from 50 to 125, of which 90 are functional.
