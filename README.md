@@ -6,17 +6,12 @@ The Indian Aviation Industry, ranked ninth globally in 2017, exhibits remarkable
 
 # Table of Contents
 
-1. [Introduction](#1-introduction)
-
-3. [Data Processing](#2-data-processing)
-    
-4. [Data Preparation](#3-data-preparation)
-
-5. [Data Visualization](#4-data-visualization)
-
-6. [Getting Started](#5-getting-started)
-
-7. [Conclusion](#6-conclusion)
+1. [Introduction](#introduction)
+2. [Data Processing](#data-processing)
+3. [Data Preparation](#data-preparation)
+4. [Data Visualization](#data-visualization)
+5. [Getting Started](#getting-started)
+6. [Conclusion](#conclusion)
 
 
 ## 1. Introduction
