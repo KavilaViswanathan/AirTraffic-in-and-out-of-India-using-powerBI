@@ -5,14 +5,14 @@
 1. [Introduction](#1-introduction)
 
 3. [Data Processing](#2-data-processing)
-4. 
-5. [Data Preparation](#3-data-preparation)
+    
+4. [Data Preparation](#3-data-preparation)
 
-6. [Data Visualization](#4-data-visualization)
+5. [Data Visualization](#4-data-visualization)
 
-7. [Getting Started](#5-getting-started)
+6. [Getting Started](#5-getting-started)
 
-8. [Conclusion](#6-conclusion)
+7. [Conclusion](#6-conclusion)
 
 
 ## 1. Introduction
