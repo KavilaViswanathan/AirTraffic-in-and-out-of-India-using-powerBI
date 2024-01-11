@@ -1,29 +1,57 @@
 # Air Traffic Analysis in and out of India using Power BI
 
-## Overview
+## 1. Introduction
 
-This Power BI project aims to analyze air traffic data related to flights arriving and departing from India. The report provides insights into key metrics, trends, and patterns in air traffic, facilitating data-driven decision-making for stakeholders in the aviation sector.
+The Indian aviation industry has a rich history, witnessing growth in both passenger and freight segments. In the 2017 fiscal year, domestic passenger traffic increased by 21.5%, with scheduled airlines expected to cover longer distances. The number of non-scheduled carriers rose from 39 to 112, and operational airports increased from 50 to 125, of which 90 are functional.
 
-## Features
+## 1.1 Market Size and Trends
 
-- Visualizations: The Power BI report includes interactive visualizations for analyzing various aspects of air traffic, such as passenger counts, flight routes, and more.
+- India ranks ninth in market size according to the 2017 India Brand Equity Survey Report.
+- Domestic passengers increased from 85.20 million (2015–16) to 103.75 million (2016–17).
+- International passengers rose from 49.78 million (2015–16) to 54.68 million (2016–17).
+- The industry transitioned from government dominance to coexistence with private entities, fostering competitiveness.
 
-- Data Filters: Users can apply filters to focus on specific time periods, airlines, airports, and other relevant parameters for in-depth analysis.
+## 1.2 Data Collection
 
-- Insights: The report provides actionable insights derived from the analysis of the air traffic data, helping users make informed decisions.
+Data is sourced from the DGCA, collected by the Indian government. The dataset covers international air traffic from January 2015 to March 2017, categorized by airline, city pair, and country.
 
-## Data Sources
+**Dataset:** [DGCA Monthly Statistics](https://www.dgca.gov.in/digigovportal/?page=monthlyStatistics/259/4751/html&main259/4184/servicename)
 
-The project utilizes the following data sources:
+## 1.3 Problem Statement
 
-- **Flight Data:** Obtain flight data from reliable sources such as aviation authorities, airlines, or open datasets containing information on flights to and from India.
+Airport data being seasonal, comparative analyses are conducted on a period-over-period basis. The goal is to identify total freights and passengers moved within India and internationally.
 
-- **Airport Information:** Utilize data sources providing details about airports, including location, facilities, and codes.
+## 1.4 Business Objectives
 
-- **Airline Information:** Incorporate data about airlines operating in India, including fleet size, routes, and passenger statistics.
+- Analyze air transport in India.
+- Visualize total passengers in domestic and international flights.
+- Visualize freight movement across the country.
+- Provide insights on airline-wise, country-wise, and city-wise flights.
 
-## Setup Instructions
+## 2. Data Processing
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/KavilaViswanathan/AirTraffic-PowerBI.git
+### 2.1 Data Cleaning
+
+Correct or remove inaccurate, damaged, or duplicate data from the dataset.
+
+### 2.2 Data Transformation
+
+Convert data into appropriate formats for the mining process, including normalization, attribute selection, discretization, and concept hierarchy level.
+
+### Data Processing
+
+Manipulate data using a computer, involving flow through the CPU and memory, output device formatting, and conversion of raw data to machine-readable form.
+
+## 3. Data Preparation
+
+Organize and process acquired data before analysis, including structuring data into tables for statistical or spreadsheet software.
+
+**Data Sources:** Three Excel files containing air traffic information for the years 2015-2017.
+
+## Getting Started
+
+Explore how to create a Power BI dashboard with the air traffic dataset. Refer to the [PowerBI documentation](https://docs.microsoft.com/en-us/power-bi/).
+
+## Conclusion
+
+This project aims to provide comprehensive insights into air traffic in and out of India, aiding stakeholders in making informed decisions.
