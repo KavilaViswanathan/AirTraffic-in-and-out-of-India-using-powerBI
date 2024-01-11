@@ -14,9 +14,11 @@ The Indian Aviation Industry, ranked ninth globally in 2017, exhibits remarkable
 
 5. [Data Visualization](#4-data-visualization)
 
-6. [Getting Started](#5-getting-started)
+6. [Power BI Requirements](#5-Power-BI-Requirements)
 
-7. [Conclusion](#6-conclusion)
+7. [Getting Started](#5-getting-started)
+
+8. [Conclusion](#6-conclusion)
 
 
 ## 1. Introduction
@@ -85,6 +87,12 @@ The Power BI report focuses on three key aspects:
 
 - Examine specific city pairs to identify high-traffic routes.
 - Analyze the correlation between cities in terms of air traffic.
+
+## 5. Power BI Requirements
+
+This project relies on Microsoft Power BI for data visualization. Ensure that you have Power BI Desktop installed to view and interact with the provided reports and dashboards.
+
+[Download Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 
 ## Getting Started
 
