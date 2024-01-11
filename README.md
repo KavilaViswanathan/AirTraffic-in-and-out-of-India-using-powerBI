@@ -48,6 +48,25 @@ Organize and process acquired data before analysis, including structuring data i
 
 **Data Sources:** Three Excel files containing air traffic information for the years 2015-2017.
 
+## 4. Data Visualization
+
+The Power BI report focuses on three key aspects:
+
+### 4.1 Airline-wise Analysis
+
+- Visualize the performance and contribution of each airline.
+- Analyze trends in passenger and freight movement for each airline.
+
+### 4.2 Country-wise Analysis
+
+- Explore the international traffic to and from India by country.
+- Understand the distribution of passengers and freights across different countries.
+
+### 4.3 City Pair-wise Analysis
+
+- Examine specific city pairs to identify high-traffic routes.
+- Analyze the correlation between cities in terms of air traffic.
+
 ## Getting Started
 
 Explore how to create a Power BI dashboard with the air traffic dataset. Refer to the [PowerBI documentation](https://docs.microsoft.com/en-us/power-bi/).
